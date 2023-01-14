@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CasualCosta
 - 👀 I’m interested in programming in general, but more specifically, 2D game dev.
 - 🌱 I’m currently learning Unity, web dev and .Net.
-- 💞️ I’m looking for a job. Hit me up on LinkedIn: https://www.linkedin.com/in/teacherfelipecosta/
+- 💞️ I’m looking for a job. 
 
 <!---
 CasualCosta/CasualCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
