@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CasualCosta
 - 👀 I’m interested in programming in general, but more specifically, 2D game dev.
-- 🌱 I’m currently learning Unity, web dev and .Net.
+- 🌱 I’m currently learning Unity and web dev.
 - 💞️ I’m looking for a job. 
 
 <!---
