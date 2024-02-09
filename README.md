@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CasualCosta
-- 👀 I’m interested in programming in general, but more specifically, 2D game dev.
+- 👀 I’m interested in front-end programming with React and Tailwind, and game dev with Unity 3D.
 - 🌱 I’m currently learning Unity and web dev.
 - 💞️ I’m looking for a job. 
 
